@@ -9,6 +9,7 @@ Welcome to **Cat Adventure With Friends**, a multiplayer platformer game where y
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [License](#license)
+7. [Discord Server](#discord-server)
 
 ## Introduction
 **Cat Adventure With Friends** is a multiplayer platformer game designed for players who love cute cats and exciting adventures. Join your friends in a colorful world filled with obstacles, challenges, and plenty of opportunities for fun!
@@ -16,9 +17,7 @@ Welcome to **Cat Adventure With Friends**, a multiplayer platformer game where y
 ## Features
 - **Multiplayer Gameplay**: Play with your friends online and explore the game world together.
 - **Customizable Cats**: Choose from a variety of adorable cat characters, each with its own unique abilities and traits.
-- **Exciting Levels**: Navigate through challenging levels filled with obstacles, enemies, and hidden secrets.
 - **Power-ups**: Discover power-ups scattered throughout the levels to help you and your friends overcome obstacles and defeat enemies.
-- **Interactive Environment**: Interact with the environment to solve puzzles and uncover hidden paths.
 - **Dynamic Soundtrack**: Enjoy an immersive soundtrack that adapts to the action-packed gameplay.
 
 ## Installation
@@ -38,5 +37,8 @@ Contributions to **Cat Adventure With Friends** are welcome! If you have any ide
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Discord Server
+Join our Discord server if you have suggestions or want to connect with other players: [Cat Adventure Discord Server](https://discord.gg/yqXVPuHAyv)
+
 ---
-Feel free to customize this README according to your project's specific details and requirements. Enjoy playing **Cat Adventure With Friends**! 🐾🎮
+Enjoy playing **Cat Adventure With Friends**! 🐾🎮
